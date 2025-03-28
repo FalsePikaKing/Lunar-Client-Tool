@@ -82,4 +82,4 @@ python lunar_tool.py
 This tool is not affiliated with Lunar Client LLC or Mojang/Microsoft.
 Use at your own risk. Developers are not responsible for any account issues.
 
-</div> ```
+</div> 
