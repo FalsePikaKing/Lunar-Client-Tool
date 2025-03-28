@@ -76,6 +76,7 @@ pip install -r requirements.txt
 
 # Run the tool
 python lunar_tool.py
+```
 <div align="center">
 ⚠️ Disclaimer ⚠️
 This tool is not affiliated with Lunar Client LLC or Mojang/Microsoft.
