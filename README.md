@@ -47,10 +47,6 @@ Select from the available packs
 
 The pack will install automatically
 
-Screenshots 📷
-
-![Feature Demo]([https://i.imgur.com/your-image.png](https://imgur.com/a/o2D4zNC))
-
 FAQ ❓
 Q: Is this against Lunar Client's TOS?
 A: No, this simply modifies local account data the same way Lunar Client does. It doesn't modify any game files.
