@@ -77,9 +77,9 @@ pip install -r requirements.txt
 # Run the tool
 python lunar_tool.py
 ```
-<div align="center">
-⚠️ Disclaimer ⚠️
-This tool is not affiliated with Lunar Client LLC or Mojang/Microsoft.
-Use at your own risk. Developers are not responsible for any account issues.
+<div align="center" style="border: 1px solid #ffcc00; padding: 10px; border-radius: 5px; background-color: #fff9e6">
 
-</div> 
+⚠️ **Disclaimer** ⚠️  
+<small>Not affiliated with Lunar Client or Mojang • Use at your own risk</small>
+
+</div>
