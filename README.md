@@ -28,7 +28,7 @@
 
 ## **📥 Download** 📥
 
-[![Download Button](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://github.com/FalseKing-coder123/lunar-tool/releases)
+[![Download Button](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)]([https://github.com/FalseKing-coder123/lunar-tool/releases](https://github.com/FalseKing-coder123/Lunar-Client-Tool/releases/tag/v1.0.0))
 
 **Supported OS:** Windows  
 
